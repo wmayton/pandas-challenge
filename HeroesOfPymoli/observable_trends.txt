@@ -1,0 +1,8 @@
+Given our results, there are a few observable trends within the data. 
+
+One, purchase frequency is highly correlated with age. The 18-22 demographic accounts for over twice 
+as many purchases as any other cohort. It is possible that this demographic plays Heroes of Pymoli more frequently 
+then other age cohorts. Secondly, it is clear that male’s play Heroes of Pymoli much more frequently than women and 
+other/non-disclosed people, who together account for only 16.4% of players. Third, the five most profitable items only accounted 
+for 8.8% of total revenue, and the five most popular items only accounted for 8.1% of total revenue. This means that 
+total revenue is not highly dependent on only the most popular or profitable items, but rather the sale of a wide range of items.
